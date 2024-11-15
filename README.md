@@ -13,7 +13,7 @@ This is a training task for making an organizer for a drill parts
 numbers of parts - 15-20;  
 one size from one point and different one from other;  
 **Highly recommended:**  
-combine these materials - plywood 3mm thikness, acrylic, polycarbonate, 3d printing materials - FFF (PLA, PETg)  
+combine these materials - plywood 3mm thiсkness, acrylic, polycarbonate, 3d printing materials - FFF (PLA, PETg)  
 ## Inspiring Ideas  
 **Basic principle**  
 ![Эскизы-6](https://github.com/user-attachments/assets/9d6322d1-e02f-40d0-86f3-465f9d336fab)  
