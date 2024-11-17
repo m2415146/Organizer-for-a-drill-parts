@@ -26,6 +26,9 @@ combine these materials - plywood 3mm thiсkness, acrylic, polycarbonate, 3d pri
 ![Screenshot_104](https://github.com/user-attachments/assets/aecf6c0b-021b-494c-8d82-547c5946fd94)  
 
 ## Measurements  
+By calipers  
+
+
 ![Screenshot_107](https://github.com/user-attachments/assets/9c033240-aef6-49a6-8577-1911c789fc8b)  
 
 ![tsanga_vysokotochnaya_woodwork_er16 03 00_er16_d3_3_tsanga_vysokotochnaya_0_01mm_1678970209_2](https://github.com/user-attachments/assets/83fb94cb-5fd7-400a-b37a-73554c3dc09e)
