@@ -55,7 +55,16 @@ By calipers
 ## 3d Modelling  
 By Rhinoceros 8
 
-![Screenshot_113](https://github.com/user-attachments/assets/19d7dffc-a702-4b41-bb7e-bb9e994e53ec)
+Create a drill part
+![Screenshot_113](https://github.com/user-attachments/assets/19d7dffc-a702-4b41-bb7e-bb9e994e53ec)  
+
+Make a holder  
+![Screenshot_114](https://github.com/user-attachments/assets/97ccf55f-bb82-40bc-b75d-b5e8773b572b)  
+![Screenshot_115](https://github.com/user-attachments/assets/3e996774-e1a4-46ee-9bb2-757801a2fa0a)  
+
+
+
+
 
 
 
