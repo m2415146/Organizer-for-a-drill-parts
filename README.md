@@ -55,7 +55,7 @@ By calipers
 ## 3d Modelling  
 By Rhinoceros 8
 
-Create a drill part
+Create a drill part  
 ![Screenshot_113](https://github.com/user-attachments/assets/19d7dffc-a702-4b41-bb7e-bb9e994e53ec)  
 
 Make a holder  
