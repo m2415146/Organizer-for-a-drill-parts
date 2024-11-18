@@ -25,6 +25,28 @@ combine these materials - plywood 3mm thiсkness, acrylic, polycarbonate, 3d pri
 ![Screenshot_103](https://github.com/user-attachments/assets/4d49684c-81d6-41fa-8a1f-ce8a4df1ecb8)  
 ![Screenshot_104](https://github.com/user-attachments/assets/aecf6c0b-021b-494c-8d82-547c5946fd94)  
 
+## Current analogues  
+
+**From [prusaprintables](https://www.printables.com/) to find a current good ideas**  
+
+[link1](https://www.printables.com/model/267239-er11-collet-organizerstorageboxholder)  
+![Screenshot_109](https://github.com/user-attachments/assets/5bd77fe9-e24f-48ed-b59b-d41aa2155546)  
+
+[link2](https://www.printables.com/model/155953-collet-holder-organizer-for-pliers-er32-collet-org)  
+![Screenshot_110](https://github.com/user-attachments/assets/af55e99e-3ddc-48c4-bed8-0b0f2af3630f)  
+
+[link3](https://www.printables.com/model/772351-er16-collet-organizer-box)  
+![Screenshot_111](https://github.com/user-attachments/assets/244c5449-436e-4a4e-a4b5-da818dd560f3)  
+
+[link4](https://www.printables.com/model/842395-end-mill-and-er11-collet-organizer)  
+![Screenshot_112](https://github.com/user-attachments/assets/5f57bbb8-7057-499e-aaec-4bacbbe57de9)  
+
+## Overall  
+Its a good idea to use the principle of "putting it in the hole" - its better than my idea of "use as attachments" drill parts, because of less material and easier to make it. Also its a good idea to add a 
+drawer for additional parts. I want to think about how to make a acrylic/polycarbonate cap for it: for this moment i dont know how to make it with round angles for better view. I have an idea to use a 3d printed bearing to make a movable holder, but with limitations of time much effective to realize it in next projects in my opinion.
+Also: for structural parts i prefer to use a PETg filament (better than PLA because of hydrolytic degradation can break it through 1+ year), holder will be in the box and if it brokes (box) - major to use it by itself. I dont like how to looks plywood but I'll think about how to use it: as a holder (because its faster than i can print it) or for the perimeter of the box  
+
+
 ## Measurements  
 By calipers  
 
