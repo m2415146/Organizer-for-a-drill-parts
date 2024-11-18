@@ -5,13 +5,12 @@ This is a training task for making an organizer for a drill parts
 ![Screenshot_99](https://github.com/user-attachments/assets/c40a29b1-8de6-406a-a2f7-fae357ab498d)  
 ![Screenshot_105](https://github.com/user-attachments/assets/08afc545-cb03-4ebf-b4e2-6eb88609713d)  
 ![Screenshot_106](https://github.com/user-attachments/assets/05f0e282-ab27-43d6-b24e-e94eaa2bfbd5)  
-
-
 ## Intro
 
 **Parameters:**   
 numbers of parts - 15-20;  
 one size from one point and different one from other;  
+
 **Highly recommended:**  
 combine these materials - plywood 3mm thiсkness, acrylic, polycarbonate, 3d printing materials - FFF (PLA, PETg)  
 ## Inspiring Ideas  
@@ -26,7 +25,6 @@ combine these materials - plywood 3mm thiсkness, acrylic, polycarbonate, 3d pri
 ![Screenshot_104](https://github.com/user-attachments/assets/aecf6c0b-021b-494c-8d82-547c5946fd94)  
 
 ## Current analogues  
-
 **From [prusaprintables](https://www.printables.com/) to find a current good ideas**  
 
 [link1](https://www.printables.com/model/267239-er11-collet-organizerstorageboxholder)  
@@ -50,11 +48,14 @@ Also: for structural parts i prefer to use a PETg filament (better than PLA beca
 ## Measurements  
 By calipers  
 
-
 ![Screenshot_107](https://github.com/user-attachments/assets/9c033240-aef6-49a6-8577-1911c789fc8b)  
 
-![tsanga_vysokotochnaya_woodwork_er16 03 00_er16_d3_3_tsanga_vysokotochnaya_0_01mm_1678970209_2](https://github.com/user-attachments/assets/83fb94cb-5fd7-400a-b37a-73554c3dc09e)
+![tsanga_vysokotochnaya_woodwork_er16 03 00_er16_d3_3_tsanga_vysokotochnaya_0_01mm_1678970209_2](https://github.com/user-attachments/assets/83fb94cb-5fd7-400a-b37a-73554c3dc09e)  
 
+## 3d Modelling  
+By Rhinoceros 8
+
+![Screenshot_113](https://github.com/user-attachments/assets/19d7dffc-a702-4b41-bb7e-bb9e994e53ec)
 
 
 
