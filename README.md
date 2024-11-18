@@ -52,7 +52,7 @@ By calipers
 
 ![tsanga_vysokotochnaya_woodwork_er16 03 00_er16_d3_3_tsanga_vysokotochnaya_0_01mm_1678970209_2](https://github.com/user-attachments/assets/83fb94cb-5fd7-400a-b37a-73554c3dc09e)  
 
-## 3d Modelling  
+## 3d Modelling basic part
 By Rhinoceros 8
 
 Create a drill part  
@@ -61,6 +61,59 @@ Create a drill part
 Make a holder  
 ![Screenshot_114](https://github.com/user-attachments/assets/97ccf55f-bb82-40bc-b75d-b5e8773b572b)  
 ![Screenshot_115](https://github.com/user-attachments/assets/3e996774-e1a4-46ee-9bb2-757801a2fa0a)  
+
+## Printing basic part
+
+3D Printer - Flashforge A5M  
+![Screenshot_118](https://github.com/user-attachments/assets/825c9f11-93e3-4fb5-b115-f7bd9fd0c42d)
+
+Slicing in OrcaSlicer  
+![Screenshot_116](https://github.com/user-attachments/assets/7e010361-f858-45d1-a2a7-658ec64c6b16)  
+
+Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashforge PETg)
+![Screenshot_117](https://github.com/user-attachments/assets/081896df-e1a3-4fc1-a75b-befdcbe868cd)  
+
+Printing in action  
+
+
+https://github.com/user-attachments/assets/81df22e7-c970-43f2-8cb9-a2a00037cc8c
+
+
+
+Got it!  
+![IMG_6566](https://github.com/user-attachments/assets/82f08c56-d27d-48bc-9af6-8c2bffd73ec7)
+
+
+## 3d Modelling box for other things  
+The harderst part for me. I spent half a day for it
+
+Create a box and a printed cap with attachments to holder  
+![Screenshot_125](https://github.com/user-attachments/assets/3749b17c-12f4-436a-bb14-18522b69fe0f)  
+
+![Screenshot_126](https://github.com/user-attachments/assets/95b96d2e-6270-438c-9070-76f5e0d32c56)  
+
+Holes have been added because of less material, weight and some less time of printing, design also. later, during slicing, it became obvious that it made sense only for the sake of design - for example, the time gain was only 4 minutes. The most difficult stages of the simulation were the matching of the parts with each other. the desire to make the box collapsible lost out to my desire to go to bed, so I tried to print the whole box. To adapt to printing, I also modeled drawer guides with theoretically acceptable overhangs for printing  
+![Screenshot_128](https://github.com/user-attachments/assets/886d23cc-a335-4919-b1dc-daf419422213)  
+
+
+## Printing box  
+
+3D Printer - Flashforge A5M  
+
+Slicing in Orcaslicer  
+![Screenshot_127](https://github.com/user-attachments/assets/ad56bfbd-ad3e-4ec3-a726-5d288ae7c35a)
+
+Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashforge PETg)  
+
+Printing in action  
+
+
+https://github.com/user-attachments/assets/591f5c42-22fd-4a34-a2b3-855c0cb37e73
+
+
+
+
+
 
 
 
