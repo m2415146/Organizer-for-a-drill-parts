@@ -146,7 +146,12 @@ i thought about different varients to solve this. Major point - try to avoid rep
    1. Measurement different thickness of defected wall to find the difference
    ![photo_5326069045918820083_y](https://github.com/user-attachments/assets/6b0c3357-9dc2-48a1-84e4-43129ce88c72)
 
-   2. Model a path for wall (i will print it if after the drawer test, this will be necessary)
+
+By chance, we managed to conduct a test for falling from a height of 1.5 meters onto a tile  
+![photo_5326069045918820325_y](https://github.com/user-attachments/assets/ab650d0d-5ea0-4c93-936f-9a9bb480e374)  
+
+
+   3. Model a path for wall (i will print it if after the drawer test, this will be necessary)
       ![Screenshot_146](https://github.com/user-attachments/assets/e169ebb7-c59f-4d86-af63-5f8bd45638c2)
       
    4. Drilling a box
