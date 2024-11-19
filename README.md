@@ -193,6 +193,12 @@ In action
 
 https://github.com/user-attachments/assets/3bcc4333-d597-43b2-b65e-62a3246af166
 
+## Printing additional parts  
+
+SLicing by Orcaslicer cap for a box  
+![Screenshot_147](https://github.com/user-attachments/assets/218f6f9a-e902-4ba2-a71f-a8a1764cd54b)  
+
+
 
 
 
