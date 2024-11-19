@@ -108,7 +108,13 @@ Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashfo
 Printing in action  
 
 
-https://github.com/user-attachments/assets/591f5c42-22fd-4a34-a2b3-855c0cb37e73
+https://github.com/user-attachments/assets/591f5c42-22fd-4a34-a2b3-855c0cb37e73  
+
+Got it!  
+![IMG_6568](https://github.com/user-attachments/assets/bfd726e0-3512-4cfc-822b-69377e503263)  
+
+
+
 
 
 
