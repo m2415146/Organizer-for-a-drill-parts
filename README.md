@@ -213,13 +213,25 @@ PETg comes off the table, despite the fact that I use a lot of glue. I also noti
 
 ## Printing additional parts  
 
-SLicing by Orcaslicer cap for a box  
+3D Printer - Flashforge A5M
+
+SLicing by Orcaslicer  cap for a box   
+Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashforge PETg)  
+
 ![Screenshot_147](https://github.com/user-attachments/assets/218f6f9a-e902-4ba2-a71f-a8a1764cd54b)  
 
 In action  
 
 
-https://github.com/user-attachments/assets/371f283b-90c8-4eb4-ae72-51515384f0ad
+https://github.com/user-attachments/assets/371f283b-90c8-4eb4-ae72-51515384f0ad  
+
+Got it  
+![photo_5325846648217266334_y](https://github.com/user-attachments/assets/f6bd4635-8e0e-4534-bdbd-f5f50fd1bb2a)  
+
+**All together**  
+![photo_5325846648217266335_y](https://github.com/user-attachments/assets/5153b9ad-bbfc-46c3-880a-bc25df29c399)
+
+
 
 
 
@@ -230,7 +242,19 @@ when I saw that the box was working, I decided that instead of the upper part of
 
 but when I loaded the model into the slicer, I saw the overhanging elements and changed it so that it was adapted to 3D printing  
 
-![PATH for repair box 2 0](https://github.com/user-attachments/assets/fdba54e4-463b-4148-82b2-0ba07d3e0daf)
+![PATH for repair box 2 0](https://github.com/user-attachments/assets/fdba54e4-463b-4148-82b2-0ba07d3e0daf)  
+
+3D Printer - Flashforge A5M
+
+SLicing by Orcaslicer    
+Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashforge PETg)  
+
+Printing  
+
+
+
+https://github.com/user-attachments/assets/98961e1c-b639-490a-8cd8-b6f9d957ea22
+
 
 
 
