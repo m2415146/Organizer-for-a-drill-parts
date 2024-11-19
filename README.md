@@ -136,8 +136,57 @@ Cooling?
 For sure problems in model. We can see this in Orcaslicer
 ![Screenshot_131](https://github.com/user-attachments/assets/a9adb213-af3d-4811-823e-9eafd7db8a38)
 
-But in Rhino its not easy to see it
-![Screenshot_129](https://github.com/user-attachments/assets/1d536a7a-4a2b-4794-b21e-7ff192b2569d)
+But in Rhino its not easy to see it  
+![Screenshot_129](https://github.com/user-attachments/assets/1d536a7a-4a2b-4794-b21e-7ff192b2569d)  
+
+## Problem solving  
+
+i thought about different varients to solve this. Major point - try to avoid reprinting the box. For sure if you do this project for the first time you must avoid this problem and use correct model.   
+
+   1. Measurement different thickness of defected wall to find the difference
+   ![photo_5326069045918820083_y](https://github.com/user-attachments/assets/6b0c3357-9dc2-48a1-84e4-43129ce88c72)
+
+   2. Model a path for wall (i will print it if after the drawer test, this will be necessary)
+      ![Screenshot_146](https://github.com/user-attachments/assets/e169ebb7-c59f-4d86-af63-5f8bd45638c2)
+      
+   4. Drilling a box
+
+By dental micromotor Rehne Sense A3  
+![photo_5326069045918820327_y](https://github.com/user-attachments/assets/2245e1a6-cefa-4d11-80d5-5bf91afee2eb)  
+
+In action  
+
+
+https://github.com/user-attachments/assets/90e0d156-f785-4068-a063-ab61cbd37572  
+
+Got it  
+![photo_5326069045918820326_y](https://github.com/user-attachments/assets/3846759f-82ac-44ca-85b8-f4fbe1a1723d)  
+
+## Modelling drawer  
+
+So many time i've spent to engage the pull-out mechanism...  
+It was also important not to increase its thickness excessively in order to save material and save free space. I had to abandon the previous complex rail system and integrate a system consisting of a small touch point in 2 planes on each side, also created cutouts in the box for the protruding parts of the former part of the box. I'll make it easier next time.  The holes are made to reduce printing time, save material and reduce the weight of the box itself in order to reduce the load on the sliding elements of the box and the box itself  
+
+![Screenshot_144](https://github.com/user-attachments/assets/39be8336-1131-4239-9e23-afd632a234a4)  
+
+Unfortunately, this method led to the appearance of overhanging elements that would require either support during 3D printing and subsequent post-processing, as well as could worsen the sliding of the drawer. I managed to adapt the internal cavities for the rails to 3D printing, there is no upper sliding part, so with a heavy heart I decided to divide the model into 2 parts and glue it later. if it does not withstand the load, I have hope that the box will still function
+
+![Screenshot_139](https://github.com/user-attachments/assets/53c886be-8960-44e2-9b8e-051dd6c7c059)  
+
+![Screenshot_141](https://github.com/user-attachments/assets/a71c21a2-b248-45dd-91fe-71642b01f423)  
+
+## Printing drawer  
+
+SLicing by Orcaslicer  
+![Screenshot_145](https://github.com/user-attachments/assets/d86459a7-27c6-4267-8ba0-ffa6a90c9261)
+
+
+
+
+
+
+
+   
 
 
 
