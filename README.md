@@ -253,7 +253,17 @@ Printing
 
 
 
-https://github.com/user-attachments/assets/98961e1c-b639-490a-8cd8-b6f9d957ea22
+https://github.com/user-attachments/assets/98961e1c-b639-490a-8cd8-b6f9d957ea22  
+
+Got it  
+![photo_5325846648217266355_y](https://github.com/user-attachments/assets/915d31a4-3295-4fbc-830c-09d94afb413e)  
+
+Problems with lenght. Perhaps I will solve this with the help of hand tools.  
+![photo_5325846648217266356_y](https://github.com/user-attachments/assets/d0231b89-f27c-4716-96d3-f67f6fe4d2bc)  
+
+
+
+
 
 
 
