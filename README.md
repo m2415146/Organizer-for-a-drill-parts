@@ -228,6 +228,11 @@ when I saw that the box was working, I decided that instead of the upper part of
 
 ![Screenshot_150](https://github.com/user-attachments/assets/0119ae14-2659-402b-9003-a9d5c31e96df)  
 
+but when I loaded the model into the slicer, I saw the overhanging elements and changed it so that it was adapted to 3D printing  
+
+![PATH for repair box 2 0](https://github.com/user-attachments/assets/fdba54e4-463b-4148-82b2-0ba07d3e0daf)
+
+
 
 
 
