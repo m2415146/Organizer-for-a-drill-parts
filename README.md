@@ -177,8 +177,18 @@ Unfortunately, this method led to the appearance of overhanging elements that wo
 
 ## Printing drawer  
 
+3D Printer - Flashforge A5M
+
 SLicing by Orcaslicer  
-![Screenshot_145](https://github.com/user-attachments/assets/d86459a7-27c6-4267-8ba0-ffa6a90c9261)
+Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashforge PETg)  
+![Screenshot_145](https://github.com/user-attachments/assets/d86459a7-27c6-4267-8ba0-ffa6a90c9261)  
+
+In action  
+
+
+https://github.com/user-attachments/assets/3bcc4333-d597-43b2-b65e-62a3246af166
+
+
 
 
 
