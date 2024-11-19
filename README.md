@@ -113,10 +113,31 @@ https://github.com/user-attachments/assets/591f5c42-22fd-4a34-a2b3-855c0cb37e73
 Got it!  
 ![IMG_6568](https://github.com/user-attachments/assets/bfd726e0-3512-4cfc-822b-69377e503263)  
 
+## Problems
+
+There is problem with box:  
+![photo_5323817246105135485_y](https://github.com/user-attachments/assets/ec58a2af-4326-450c-b097-be0891160b96)  
 
 
 
+https://github.com/user-attachments/assets/0c6e3d64-1ee0-49c6-86d6-83343827146b
 
+
+Why did this happen?  
+
+Overhangs? Orcaslicer said about it  
+![Screenshot_130](https://github.com/user-attachments/assets/977d06d8-5b4d-4f99-8d8c-40fe494e5bf3)  
+
+- No, because we have the same part printed on the other side and we have modified the model to better print overhangs.
+  
+Cooling?
+- No, because not the whole part is in the strings
+  
+For sure problems in model. We can see this in Orcaslicer
+![Screenshot_131](https://github.com/user-attachments/assets/a9adb213-af3d-4811-823e-9eafd7db8a38)
+
+But in Rhino its not easy to see it
+![Screenshot_129](https://github.com/user-attachments/assets/1d536a7a-4a2b-4794-b21e-7ff192b2569d)
 
 
 
