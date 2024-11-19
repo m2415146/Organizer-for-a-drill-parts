@@ -190,13 +190,46 @@ Material - Geeetech PETg (standart settings for Flashforge 5m 0.4 Nozzle Flashfo
 
 In action  
 
-
 https://github.com/user-attachments/assets/3bcc4333-d597-43b2-b65e-62a3246af166
+
+Got it  
+
+![photo_5326069045918820685_y](https://github.com/user-attachments/assets/f2eb5688-8c60-4d07-acf4-6ece8c7b6586)  
+
+Drawer in action  
+
+
+
+https://github.com/user-attachments/assets/0ca51161-b320-43d8-a2cc-3c5e39b406ac  
+
+**Problems**  
+
+PETg comes off the table, despite the fact that I use a lot of glue. I also noticed that the box itself is also deformed at the corners, especially on the side where the printing was unsuccessful due to a defect in the model - I probably should think about uniform cooling during printing or better isolate the printer from ventilation with an open window. But may be this is a reason why it works together (box and drawer) - because both are deformed. So, this is not a bug, but a feature  
+
+![photo_5326069045918820686_y](https://github.com/user-attachments/assets/b9086278-2f95-493c-8ec7-165d305b05db)
+
+
+
 
 ## Printing additional parts  
 
 SLicing by Orcaslicer cap for a box  
 ![Screenshot_147](https://github.com/user-attachments/assets/218f6f9a-e902-4ba2-a71f-a8a1764cd54b)  
+
+In action  
+
+
+https://github.com/user-attachments/assets/371f283b-90c8-4eb4-ae72-51515384f0ad
+
+
+
+Creating a path to repair a box  
+when I saw that the box was working, I decided that instead of the upper part of the drawer mount, it was worth printing the missing part of the inner wall of the box with a rail  
+
+![Screenshot_150](https://github.com/user-attachments/assets/0119ae14-2659-402b-9003-a9d5c31e96df)  
+
+
+
 
 
 
