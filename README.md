@@ -261,6 +261,106 @@ Got it
 Problems with lenght. Perhaps I will solve this with the help of hand tools.  
 ![photo_5325846648217266356_y](https://github.com/user-attachments/assets/d0231b89-f27c-4716-96d3-f67f6fe4d2bc)  
 
+## Problems solving  
+
+Let's mark where you need to make a cut
+![photo_5328098448030949691_y](https://github.com/user-attachments/assets/88b42e0a-c00f-4746-9975-250636930e74)   
+
+A universal battery cutter is used for trimming  
+![photo_5328098448030949689_y](https://github.com/user-attachments/assets/3822ff20-a79b-4bf2-87b0-31506724bd4c)  
+
+In action  
+
+
+https://github.com/user-attachments/assets/007f61a3-d2bc-402c-ac2d-c658694db286  
+
+Got it  
+![photo_5328098448030949686_y](https://github.com/user-attachments/assets/ac4375af-976d-4c2a-886e-a41950f47f74)  
+
+We will glue the part to the box using cyanoacrylate glue  
+![photo_5328098448030949687_y](https://github.com/user-attachments/assets/3eb4f262-ba3a-4cf5-ba75-cc5ad9bcfb66)  
+
+Got it. 
+![photo_5328098448030949688_y](https://github.com/user-attachments/assets/bd8084a4-96c9-4d2c-af45-d0ba35e338ba)  
+
+it does not look perfect, there is also a gap between the rail at the box itself and the added part, but this does not affect the function. Also, the part will be hidden inside the box and invisible to an outside observer.  
+
+Test drive  
+
+
+https://github.com/user-attachments/assets/2b017a06-3dc3-45f5-bbf6-edb4367d7137  
+
+## intermediate test  
+
+![photo_5328098448030949690_y](https://github.com/user-attachments/assets/e6a8e7ae-eb13-4532-abe8-64a1c8ac52df)  
+
+In action  
+
+
+https://github.com/user-attachments/assets/768d4e1c-632d-4511-aff7-0ba2212e646b  
+
+## Add additional materials  
+
+Acrylic  
+
+I wanted to make the outer walls of the box out of plywood, but decided that acrylic would look nicer with green PETG. I had the idea to cut out a single piece with live loops, but the question arose as to how accurately the corners would be able to be made. so it was decided to divide into 2 parts and bend.  
+Creating in CorelDraw with a helps from one of the teachers from FabLab (Thank you, Alexander!)  
+
+![photo_5328098448030950143_y](https://github.com/user-attachments/assets/630add93-75a2-4488-a6ab-0d14533f9fea)  
+
+Laser cut  
+
+
+
+https://github.com/user-attachments/assets/872408ff-d58c-42d7-b00e-24e503963cf8  
+
+It was decided to bend the obtained parts from acrylic using a homemade device for bending acrylic, which was in FabLab. By heating the metal thread by convection, the acrylic is heated  
+
+![photo_5328098448030950144_y](https://github.com/user-attachments/assets/da95365a-79e9-49f5-abd5-42be7c3a0ee8)  
+
+you should wait until a heating line appears on the top surface of the acrylic, without allowing it to overheat, which will be noticeable by the fact that the part hanging in the air begins to tilt towards the table. then I applied the heated acrylic to the PETg box, carefully bent it and held it for a while to maintain its shape  
+
+![photo_5328098448030950145_y](https://github.com/user-attachments/assets/f5b5b3b5-c410-4811-9936-7a416677230a)  
+
+Got it    
+![photo_5328098448030950147_y](https://github.com/user-attachments/assets/fd9a376e-9ac1-4b3d-b828-b7d5683338c7)  
+
+then remove the film from the inside of the acrylic before gluing the acrylic to the box with cyanoacrylate glue  
+![photo_5328098448030950146_y](https://github.com/user-attachments/assets/135b3ad0-ac57-418b-bb3f-17375ea7448a)  
+
+we glue it and look at the result.  
+
+![photo_5328098448030950148_y](https://github.com/user-attachments/assets/60b18fb1-24a8-4d9a-a59e-2ede9e85cd9d)  
+
+After this, the PETg box parts can be glued together using cyanoacrylate adhesive. To prevent accidental gluing, I removed the drawer. The protruding parts of the holder itself (the uppermost section), which fit into the lid’s slots like a sieve, were left unglued. This allows time for settling (including shrinkage) and reduces the risk of incorrect positioning. The protective film remains on the outer surface for now.  
+
+![photo_5327836631119554560_y](https://github.com/user-attachments/assets/c193d913-f310-4ca6-8cc7-4d9c4acf57e2)  
+
+**Overall**
+On the back of the box the acrylic parts could not be connected. Tomorrow I will try to solve this problem. to avoid this in the future, you can not only cut out an acrylic part on a laser machine before bending, but also engrave the line of the future bend for accuracy.  
+
+Initially, I planned to add acrylic, because in the conditions of our task it was strongly recommended to use different materials, but the resulting result not only looks cool, but also gives rigidity to the walls made of PETg, which has elasticity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
