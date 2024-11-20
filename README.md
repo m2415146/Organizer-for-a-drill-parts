@@ -339,7 +339,50 @@ After this, the PETg box parts can be glued together using cyanoacrylate adhesiv
 **Overall**
 On the back of the box the acrylic parts could not be connected. Tomorrow I will try to solve this problem. to avoid this in the future, you can not only cut out an acrylic part on a laser machine before bending, but also engrave the line of the future bend for accuracy.  
 
-Initially, I planned to add acrylic, because in the conditions of our task it was strongly recommended to use different materials, but the resulting result not only looks cool, but also gives rigidity to the walls made of PETg, which has elasticity
+Initially, I planned to add acrylic, because in the conditions of our task it was strongly recommended to use different materials, but the resulting result not only looks cool, but also gives rigidity to the walls made of PETg, which has elasticity  
+
+## Add a drawer handle with text  
+
+The slot in the drawer was modeled to put a pen with an inscription there. there will also be a qr code with a link to this project so that you can view it from a user who may have problems. the qr will be modeled in CorelDRAW, in Rhino I inserted it for visualization  
+
+![Screenshot_158](https://github.com/user-attachments/assets/f65e0864-c715-4d34-8a08-751ecdc6a939)  
+
+**Important notes**  
+
+it turned out that inserting QR into RHino, as well as into CorelDRAW itself, is not such an easy task. QR can be created using various services - for example, such:
+[QR code generator](http://qrcoder.ru/?t=1/)  
+
+![Screenshot_161](https://github.com/user-attachments/assets/a5599b44-f21e-4453-97b3-9b0385bd0bb2)  
+
+but when you try to import it into rhino, it is inserted as a simple picture, which is not suitable for uploading to CorelDraw for laser cutting. Also, if you insert it into CorelDraw itself, you will encounter problems.  
+
+It may looks like this:  
+
+![Screenshot_162](https://github.com/user-attachments/assets/4a574b18-ec77-4304-b82f-dde4c58323a7)  
+
+I also tried using a QR code generator for 3D printing ( [QR code 2 stl](https://printer.tools/qrcode2stl/#shareQR-eyJ0ZXh0IjoiaHR0cHM6Ly9naXRodWIuY29tL20yNDE1MTQ2L09yZ2FuaXplci1mb3ItYS1kcmlsbC1wYXJ0cyJ9) )   - you get a stl model that looks like this in CorelDraw:  
+
+![Screenshot_163](https://github.com/user-attachments/assets/84d09db4-c195-4440-b6fe-c042b681db0a)  
+
+I also found a plugin for RHino that generates a QR code, but I couldn’t figure out how to use it  [QR Rhino](https://www.food4rhino.com/en/resource/qr-code-generator)  
+
+## Add plywood  
+
+the way to apply plywood in this project is to make an additional overlay on the top of the holder. a possible additional option would be a greater degree of detail fixation  
+
+Creating a model in Rhinoceros by extract surface command and saving this in .dxf for CorelDraw and adapting for laser cut  
+
+![Screenshot_157](https://github.com/user-attachments/assets/eb8333c4-d92e-4b6f-a700-529a7803aa3c)  
+
+![Screenshot_164](https://github.com/user-attachments/assets/e5390bb3-b90e-44a4-8328-3ab8d3f7225c)  
+
+
+
+
+
+
+
+
 
 
 
