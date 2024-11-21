@@ -341,6 +341,45 @@ On the back of the box the acrylic parts could not be connected. Tomorrow I will
 
 Initially, I planned to add acrylic, because in the conditions of our task it was strongly recommended to use different materials, but the resulting result not only looks cool, but also gives rigidity to the walls made of PETg, which has elasticity  
 
+## Problem solving  
+
+I wanted to close the gap between the acrylic walls on the back of the box  
+
+![photo_5330568870269938649_y](https://github.com/user-attachments/assets/610014e9-e473-4acd-8e6c-4da99b0d20f5)  
+
+we measure it with a caliper  
+
+![photo_5330568870269938650_y](https://github.com/user-attachments/assets/7e62f110-a2bb-45d7-951a-0b82f4e4a576)  
+
+an important task is to compensate for the uneven contour of the mapping, which arose due to PETg shrinkage during 3d printing  
+
+the first model was unsuccessful, but I noticed it only after trimming it. the error was at the stage of removing unnecessary lines after modeling in rhinoceros  
+
+![photo_5330568870269938651_y](https://github.com/user-attachments/assets/1428363c-c7cc-4cea-b99e-ea987f26db01)  
+
+then I took into account the errors and carefully corrected the cropping contour in rhinoceros  
+
+![photo_5330568870269938652_y](https://github.com/user-attachments/assets/18c17125-4c4f-4b10-89b0-47c93740c300)  
+
+in action  
+
+
+https://github.com/user-attachments/assets/cebae0ec-4a27-4283-8e7d-e661fe97d95b  
+
+got it  
+
+![photo_5330568870269938653_y](https://github.com/user-attachments/assets/84500407-7c27-4c9c-8129-a699d9dd7150)  
+
+during the fitting, a new problem was discovered: on the left side, the part fit well into the grooves, but on the right (from the one where the greatest slope was) it did not.  
+
+![photo_5330568870269938654_y](https://github.com/user-attachments/assets/f373a51a-cc2d-4384-8c76-7808e846c281)  
+
+![photo_5330568870269938655_y](https://github.com/user-attachments/assets/a59c08c0-392d-433e-8d58-e71ad3563496)  
+
+I decided to adjust the right side of the part using a needle file, but due to lack of time I did not have time to do it completely  
+
+![photo_5330568870269938659_y](https://github.com/user-attachments/assets/f3e48925-6bc8-4f25-995f-93d6a7f3233f)  
+
 ## Add a drawer handle with text  
 
 The slot in the drawer was modeled to put a pen with an inscription there. there will also be a qr code with a link to this project so that you can view it from a user who may have problems. the qr will be modeled in CorelDRAW, in Rhino I inserted it for visualization  
@@ -351,7 +390,30 @@ The slot in the drawer was modeled to put a pen with an inscription there. there
 
 since the task of uploading a qr code for laser cutting may be relevant for other users, I created a separate project and described there in a short form the solution to this problem.  
 
-[Qr-code-for-laser-cut](https://github.com/m2415146/Qr-code-for-laser-cut/tree/main)
+[Qr-code-for-laser-cut](https://github.com/m2415146/Qr-code-for-laser-cut/tree/main)  
+
+the outline for cutting out the sign with text for the drawer was modeled in the rhinoceros program, two-color acrylic was chosen as the material - gold surface and black backing  
+
+![Screenshot_167](https://github.com/user-attachments/assets/0dd23dd1-8bc6-4448-ba51-06b3f43decb2)  
+
+
+qr code which was modeled in coreldraw program was imported for cutting. also at this stage, the width of the arrow and the font of the inscriptions at the top and bottom were increased  
+
+
+![photo_5330568870269938656_y](https://github.com/user-attachments/assets/f13ba63e-8a09-4522-88d3-dacbf3ffc4e9)  
+
+in action  
+
+
+
+https://github.com/user-attachments/assets/bad29915-b9ae-4f7f-b641-10bab0e1079d  
+
+Got it  
+
+![photo_5330043097553429044_y](https://github.com/user-attachments/assets/e928f495-0059-43c4-bb31-ee801966fb79)  
+
+Unfortunately, the QR code turned out to be unreadable for my iPhone’s camera, and when I took a photo of it and moved it to the gallery, it was not recognized by the system. Most likely this happened due to the small size of the code in combination with the high laser power during engraving. I'll try to either reduce the laser power to re-engrave this part, or find a way to generate a qr code with larger elements  
+
 
 ## Add plywood  
 
@@ -362,6 +424,37 @@ Creating a model in Rhinoceros by extract surface command and saving this in .dx
 ![Screenshot_157](https://github.com/user-attachments/assets/eb8333c4-d92e-4b6f-a700-529a7803aa3c)  
 
 ![Screenshot_164](https://github.com/user-attachments/assets/e5390bb3-b90e-44a4-8328-3ab8d3f7225c)  
+
+after removing the extra lines, the markup color was replaced with red, which in our settings corresponds to the clipping, and black corresponds to the grading  
+
+![photo_5330568870269938660_y](https://github.com/user-attachments/assets/3e7ad5fa-1971-4699-b837-f3bcfbf7f68b)  
+
+in action  
+
+
+
+https://github.com/user-attachments/assets/9e342deb-39f6-4dea-aeec-417d49ffa481  
+
+got it  
+
+![photo_5330568870269938661_y](https://github.com/user-attachments/assets/86ca0400-1aa8-44c7-9739-2d5bd11cc68e)  
+
+
+one side of the plywood showed visual signs of carbon deposits that had occurred during laser cutting. I turned the part over to the cleaner side and glued it to the top surface of the holder using cyanoacrylate glue  
+
+got it. In this photo you can see that the edge of the plywood on the left protrudes slightly above the surface of the petg holder. Considering that the same model was used for modeling, this reason may be related to petg shrinkage during large-scale printing of the part. visually the holes match, so I don’t think this will affect its functionality.  
+
+in this photo, a part of plywood (3 mm thick) glued to the holder is visible, and a sign with text and qr code made of two-tone acrylic is also embedded, which lies at an angle, since I have not yet made a holder for it from PETg, which should give thickness to the plate and increase its strength, acting as a handle. However, the final look of my project is almost ready  
+
+![photo_5330043097553429043_y](https://github.com/user-attachments/assets/37e92ed2-7afe-4e6e-949f-8cdf6652e185)
+
+
+
+
+
+
+
+
 
 
 
