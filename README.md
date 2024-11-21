@@ -448,6 +448,9 @@ in this photo, a part of plywood (3 mm thick) glued to the holder is visible, an
 
 ![photo_5330043097553429043_y](https://github.com/user-attachments/assets/37e92ed2-7afe-4e6e-949f-8cdf6652e185)
 
+## About 3d modelling in rhinoceros 8  
+
+since the description of the project turned out to be impressive enough not to load it, and also for convenience, I created a separate repository for the [list of commands](https://github.com/m2415146/List-of-commands-in-rhinoceros-8-for-modeling-an-organizer-for-collet/blob/main/README.md) in rhinoceros that I used to create this project
 
 
 
