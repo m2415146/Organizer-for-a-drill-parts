@@ -586,6 +586,8 @@ https://github.com/user-attachments/assets/954870d1-88b1-4c48-8253-5ab28a4f0d49
 
 in action    
 
+https://github.com/user-attachments/assets/a791bfff-6cda-4334-a892-9df4dd1e8bec  
+
 
 ## Qr code  
 
@@ -600,7 +602,6 @@ Result
 
 
 
-https://github.com/user-attachments/assets/a791bfff-6cda-4334-a892-9df4dd1e8bec
 
 
 
