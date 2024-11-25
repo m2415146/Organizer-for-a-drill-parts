@@ -584,7 +584,19 @@ all that remains is to remove the protective film from the acrylic walls, which 
 
 https://github.com/user-attachments/assets/954870d1-88b1-4c48-8253-5ab28a4f0d49  
 
-in action  
+in action    
+
+
+## Qr code  
+
+Since I still didn’t want to abandon the idea with the QR code, I decided to add it to the inside surface of the drawer. for this I used a thermal printer Niimbot b21  
+
+![Screenshot_190](https://github.com/user-attachments/assets/fe2bbc21-e486-469c-b905-b51e7a61198a)  
+
+Result  
+
+![photo_5343948964707296421_y](https://github.com/user-attachments/assets/1dfedbdc-b414-4fc5-b33d-c9d88e664642)
+![photo_5344042977246439769_y](https://github.com/user-attachments/assets/31049c02-ae40-4290-853e-ea37798827ba)
 
 
 
