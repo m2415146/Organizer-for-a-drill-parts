@@ -380,6 +380,18 @@ I decided to adjust the right side of the part using a needle file, but due to l
 
 ![photo_5330568870269938659_y](https://github.com/user-attachments/assets/f3e48925-6bc8-4f25-995f-93d6a7f3233f)  
 
+in order for this part to fall into place well, I had to use a dental micromotor  
+
+it didn't work out very smoothly, but I've already spent too much time on the project to perfect such details  
+
+![photo_5343948964707296419_y](https://github.com/user-attachments/assets/389bd6cd-3cb9-4875-a5a4-ba59a4f72efb)  
+
+I glued it with cyanoacrylate glue. the difference in the surfaces is because I have already removed the film from this part, but not from those on the sides of the box  
+
+![photo_5343948964707296420_y](https://github.com/user-attachments/assets/b919daf7-ecdd-4b18-9362-9564e7ba6146)  
+
+
+
 ## Add a drawer handle with text  
 
 The slot in the drawer was modeled to put a pen with an inscription there. there will also be a qr code with a link to this project so that you can view it from a user who may have problems. the qr will be modeled in CorelDRAW, in Rhino I inserted it for visualization  
@@ -412,7 +424,117 @@ Got it
 
 ![photo_5330043097553429044_y](https://github.com/user-attachments/assets/e928f495-0059-43c4-bb31-ee801966fb79)  
 
-Unfortunately, the QR code turned out to be unreadable for my iPhone’s camera, and when I took a photo of it and moved it to the gallery, it was not recognized by the system. Most likely this happened due to the small size of the code in combination with the high laser power during engraving. I'll try to either reduce the laser power to re-engrave this part, or find a way to generate a qr code with larger elements  
+Unfortunately, the QR code turned out to be unreadable for my iPhone’s camera, and when I took a photo of it and moved it to the gallery, it was not recognized by the system. Most likely this happened due to the small size of the code in combination with the high laser power during engraving. I'll try to either reduce the laser power to re-engrave this part, or find a way to generate a qr code with larger elements    
+
+in an attempt to solve this problem, I tried to cut out a new qr code with slightly different settings  
+
+laser cut in action  
+
+
+
+https://github.com/user-attachments/assets/67e1da9c-d266-463a-8b07-de5399721a07  
+
+![photo_5343948964707296411_y](https://github.com/user-attachments/assets/de31fed4-0bc8-4724-a5c5-cfcf70c58a64)  
+
+Unfortunately, the qr code still turned out to be unreadable. for more than an hour, I tried to find a service that would help me create code from larger parts, but failed. for this reason, it was decided to use a text link  
+
+editing in CorelDraw  
+
+![photo_5343948964707296412_y](https://github.com/user-attachments/assets/0a932391-8e30-4a90-9db7-bbfeff7f37f2)
+
+
+laser cut in action  
+
+
+
+https://github.com/user-attachments/assets/1fc98e9d-86f7-420c-897f-67b353a8b0f9
+
+
+
+
+
+goi it  
+
+![photo_5341424228311885119_y (1)](https://github.com/user-attachments/assets/b93a33ed-3c9b-4813-be29-1fe2410c85a2)  
+
+despite the deformed edge of the groove on top, due to the elasticity of the material, it must be functional  
+
+## Additional part for handle drawer  
+
+Since I initially planned to cut out a sign with text entirely from a thick sheet of acrylic and did not know in advance what thickness options were available in FAbLab, I made a fairly wide groove in the box with a margin that could be filled using a 3D printed part printer  
+
+this insert had to be modeled in two parts, since one was supposed to act as support for the sign, and the other to give it rigidity  
+
+creating in RhinoCeros  
+
+![Screenshot_183](https://github.com/user-attachments/assets/4a5e26c8-5ece-4e46-80ff-2797266e14f9)  
+
+![Screenshot_184](https://github.com/user-attachments/assets/4b69aae6-e2c9-46f3-8b83-06d2cdd3fb34)  
+
+in order to add variety to the materials, I wanted to print these details from PLA  
+
+Slicing in Orcaslicer  
+
+![Screenshot_185](https://github.com/user-attachments/assets/bfc0d93f-7758-4940-ac15-5ceb446833f4)  
+
+3d printer - Flashforge A5m, filament - High Speed PLA eSun, standart settings for 0.4 nozzle for Flashforge PLA  
+
+unfortunately, I had several unsuccessful attempts to print from this material  
+
+![photo_5339084519107584048_y](https://github.com/user-attachments/assets/f1e9d202-07f8-4244-807e-43754ba32c01)  
+
+![photo_5339084519107584047_y](https://github.com/user-attachments/assets/6f552ab1-ab13-4a37-8567-ace3106cb242)  
+
+I decided to use a different material: PETG from GEEETECH with the same settings that I used to print other parts of the box  
+
+Slicing in Orcaslicer  
+
+in order to avoid the deformation that was with PETG, from which the rest of the box was printed, my colleague advised to rinse the printing table well. I also added a skirt to avoid the corners of the model coming off.  
+
+![Screenshot_188](https://github.com/user-attachments/assets/c359ac3b-29f2-4f28-8423-dae97f048bff)  
+
+![Screenshot_189](https://github.com/user-attachments/assets/cc9ef22d-bd31-40f9-b373-0b298909a352)  
+
+I used wire cutters to cut off the printed skirt pieces. I polished the remaining uneven surface from the top edge using a dental machine  
+
+![photo_5343948964707296413_y](https://github.com/user-attachments/assets/52bd47aa-c654-4d7d-9bc2-1d5f57f2bbe7)  
+
+the result of fitting an acrylic plate with text to the holder  
+
+![photo_5343948964707296415_y](https://github.com/user-attachments/assets/4346e121-490e-49b1-a8bd-51c80a80a61e)  
+
+to glue the parts to each other, I used cyanoacrylate glue  
+
+![photo_5343948964707296414_y](https://github.com/user-attachments/assets/468adfcf-c340-4dbe-b82f-2c6b3221a6cb)  
+
+the result of gluing. unfortunately, the acrylic plate was somewhat crookedly glued from one edge, but this did not prevent it from being fixed to the drawer  
+
+![photo_5343948964707296416_y](https://github.com/user-attachments/assets/6dc407af-5d5b-4462-97dc-46315d078bdc)  
+
+from inside  
+
+![photo_5343948964707296417_y](https://github.com/user-attachments/assets/3fc28e12-3129-4e4f-9dce-531b8d6e47d4)  
+
+![photo_5343948964707296418_y](https://github.com/user-attachments/assets/f09cc966-dd7c-4123-9bc7-705ae426f1e8)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Add plywood  
@@ -450,7 +572,30 @@ in this photo, a part of plywood (3 mm thick) glued to the holder is visible, an
 
 ## About 3d modelling in rhinoceros 8  
 
-since the description of the project turned out to be impressive enough not to load it, and also for convenience, I created a separate repository for the [list of commands](https://github.com/m2415146/List-of-commands-in-rhinoceros-8-for-modeling-an-organizer-for-collet/blob/main/README.md) in rhinoceros that I used to create this project
+since the description of the project turned out to be impressive enough not to load it, and also for convenience, I created a separate repository for the [list of commands](https://github.com/m2415146/List-of-commands-in-rhinoceros-8-for-modeling-an-organizer-for-collet/blob/main/README.md) in rhinoceros that I used to create this project  
+
+##  Finished project  
+
+all that remains is to remove the protective film from the acrylic walls, which I will do during the presentation of the project in the classroom  
+
+![photo_5343973888402516162_y](https://github.com/user-attachments/assets/df5bbff0-fe46-495e-899f-5ca02889e18d)  
+
+
+
+https://github.com/user-attachments/assets/954870d1-88b1-4c48-8253-5ab28a4f0d49  
+
+in action  
+
+
+
+https://github.com/user-attachments/assets/a791bfff-6cda-4334-a892-9df4dd1e8bec
+
+
+
+
+
+
+
 
 
 
