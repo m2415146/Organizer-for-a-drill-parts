@@ -598,7 +598,12 @@ Since I still didn’t want to abandon the idea with the QR code, I decided to a
 Result  
 
 ![photo_5343948964707296421_y](https://github.com/user-attachments/assets/1dfedbdc-b414-4fc5-b33d-c9d88e664642)
-![photo_5344042977246439769_y](https://github.com/user-attachments/assets/31049c02-ae40-4290-853e-ea37798827ba)
+![photo_5344042977246439769_y](https://github.com/user-attachments/assets/31049c02-ae40-4290-853e-ea37798827ba)  
+
+## Final photo from presentation  
+
+![photo_5348459913023711570_y](https://github.com/user-attachments/assets/92084264-f73c-42e4-bc99-73051715d5c3)
+
 
 
 
