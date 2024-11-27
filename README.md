@@ -602,7 +602,21 @@ Result
 
 ## Final photo from presentation  
 
-![photo_5348459913023711570_y](https://github.com/user-attachments/assets/92084264-f73c-42e4-bc99-73051715d5c3)
+![photo_5348459913023711570_y](https://github.com/user-attachments/assets/92084264-f73c-42e4-bc99-73051715d5c3)  
+
+## Final  test-drive  
+
+![photo_5348459913023712768_y](https://github.com/user-attachments/assets/2b6ce786-1e4a-4846-a643-d34031e37f15)  
+
+![photo_5348459913023712769_y](https://github.com/user-attachments/assets/35b2b9f5-b2b6-4a36-8801-0396bd265b00)  
+
+
+
+https://github.com/user-attachments/assets/ca7d27c3-57b0-4f4e-b3d7-580acf0861d3
+
+
+
+
 
 
 
